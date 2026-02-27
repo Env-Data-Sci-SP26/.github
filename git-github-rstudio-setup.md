@@ -17,15 +17,15 @@ This guide walks you through setting up Git, GitHub, and connecting them to RStu
 
 ---
 
-## Step 1: Install Git
+## Step 1: Create a GitHub Account
 
-Follow [Chapter 4](https://happygitwithr.com/install-git) of Happy Git to install Git on your operating system.
+If you don't already have one, create a free account at [github.com](https://github.com). Follow [Chapter 5](https://happygitwithr.com/github-acct) for tips on choosing a username.
 
 ---
 
-## Step 2: Create a GitHub Account
+## Step 2: Install Git
 
-If you don't already have one, create a free account at [github.com](https://github.com). Follow [Chapter 5](https://happygitwithr.com/github-acct) for tips on choosing a username.
+Follow [Chapter 4](https://happygitwithr.com/install-git) of Happy Git to install Git on your operating system.
 
 ---
 
