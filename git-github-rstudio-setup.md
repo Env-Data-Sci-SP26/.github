@@ -37,15 +37,15 @@ Make sure you have current versions of both R and RStudio installed. See [Chapte
 
 ## Step 4: Configure Git
 
-In RStudio (or a terminal), introduce yourself to Git by running:
+In RStudio, introduce yourself to Git by running the following R code:
 
 ```r
-install.packages("usethis")
+install.packages("usethis") #only do this ONCE
 library(usethis)
 use_git_config(user.name = "Your Name", user.email = "your@email.com")
 ```
 
-Use the email associated with your GitHub account. See [Chapter 7](https://happygitwithr.com/hello-git) for more detail.
+Use the email associated with your GitHub account. See [Chapter 7](https://happygitwithr.com/hello-git) if you want more detail.
 
 ---
 
@@ -66,11 +66,11 @@ This opens GitHub in your browser. When setting up your token:
 Then store your token in R:
 
 ```r
-install.packages("gitcreds")
+install.packages("gitcreds") #only do this ONCE
 gitcreds::gitcreds_set()
 ```
 
-Paste your token when prompted. See [Chapter 9](https://happygitwithr.com/https-pat) for more detail. We use **HTTPS (not SSH)** for this course.
+Paste your token when prompted. **Your token should begin with 'ghp' followed by a long string of numbers and letters**. See [Chapter 9](https://happygitwithr.com/https-pat) for more detail. We use **HTTPS (not SSH)** for this course.
 
 ---
 
