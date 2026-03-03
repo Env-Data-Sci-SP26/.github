@@ -89,7 +89,7 @@ A final note. The data science field changes extremely quickly. We will teach yo
 | 5    | 2/16          | Before class: Write Functions<br>  Simple Linear Regression<br>  Assignment - Simple regression (20 points)                                     | 2/23                |
 | 6    | 2/23          | Before class: Iterate<br>  Multiple Linear Regression<br>  Assignment - Interpreting multiple linear regression (20 points)     | 3/2                |
 | 7    | 3/2          | Power in Statistical Analysis and R Skills Review<br>  Assignment - Power (20 points)                                              | 3/9                |
-| 8    | 3/9          | *Before Class* Complete the Git, GitHub and RStudio [Setup Instructions](https://github.com/Env-Data-Sci-SP26/.github/blob/main/git-github-rstudio-setup.md)<br> **Intro to Git and GitHub**<br>  Assignment - First Git Repo and Pull Request (20 points)                                              | 3/23               |
+| 8    | 3/9          | Before Class: Complete the Git, GitHub and RStudio [Setup Instructions](https://github.com/Env-Data-Sci-SP26/.github/blob/main/git-github-rstudio-setup.md)<br> **Intro to Git and GitHub**<br>  Assignment - First Git Repo and Pull Request (20 points)                                              | 3/23               |
 | 9   | 3/16         |  **No Classes - Spring Break**                                     |                |
 | 10    | 3/23         | **Debugging and AI**<br>  Assignment - Code Debugging and AI (20 points)                                                                       | 3/30               |
 | 11   | 3/30         | **Iteration, Functions, API calls**<br> Assignment - National Park Visitation (20 points)                                             | 4/6               |
@@ -98,5 +98,6 @@ A final note. The data science field changes extremely quickly. We will teach yo
 | 14   | 4/20         | **Nested Modeling**<br>  Assignment - Water quality modeling (20 points)                                                               | 4/27               |
 | 15   | 4/27         | **Final Projects - R Markdown, Bookdown, Quarto, Shiny**<br>  Assignment - Final Project (100 points)                                                                                                       | 5/13                   |
 | 16   | 5/4         | **Final Project worktime (NO FINAL EXAM)**                                  |                |
+
 
 
